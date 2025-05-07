@@ -3,8 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-image: /assets/lib/gintama.jpg
-
 ## About Me  🥷
 
 Hi ! I’m Faris.I'm currently on a quest to break everything in sight—Active Directory, web and reverse engineering, you name it. Basically, I break stuff to figure out how it works, solve CTF challenges, and try not to break anything too important in the process. Mastery is my goal, but for now, I remain a  noobie—silent, deadly, and always leveling up . 

@@ -9,7 +9,8 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: false # open link in current tab
-  
+  url: 'https://mail.google.com/mail/?view=cm&to=farisdnish79@gmail.com'
+
 #- type: rss
  # icon: "fas fa-rss"
   #noblank: true

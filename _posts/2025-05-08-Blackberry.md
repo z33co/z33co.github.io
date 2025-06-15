@@ -5,11 +5,11 @@ categories: [CTF]
 tags: [CTF]
 image:
   path: https://imgs.search.brave.com/ckDTuxCzv0isHJVdwnL9LgITghWY7KRA2lVEB_khGzA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS80OC8z/L0w3VVNmcS5qcGc
-description: Can you escape from Jail..
+description: Get me out from this jail 
 
 ---
 
-## 🧱 Jail Challenge 1 
+## 🧱 JAIL CHALLENGE 1 
 <br>
 
 
@@ -119,7 +119,7 @@ bbctf{is_th3r3_another_w4y_70_s0lv3_th1s?}
 ```
 ---
 
-## 🧱 Jail Challenge 4 
+## 🧱 JAIL CHALLENGE 4 
 <br>
 
 ```php
@@ -220,7 +220,7 @@ FLAG:
 bbct{hmm.. so unpopular php function i guess?} 
 ```
 ---
-## 🧱 Jail Challenge 5 
+## 🧱 JAIL CHALLENGE 5 
 <br>
 
 ## 🔎 Initial Observation

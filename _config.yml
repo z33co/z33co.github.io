@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zeta # the main title
+title: Kafka Blog  # the main title
 
-tagline: got rejected from being doctor # it will display as the subtitle
+tagline: unstable # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  NOOOOOO
+  yahh
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://z33co.github.io"

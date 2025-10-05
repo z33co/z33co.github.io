@@ -1,7 +1,7 @@
 ---
 title: "Polycc CTF Final 2025"
 date: 2025-07-14 
-categories: [CTF]
+categories: [WEB,REVERSING]
 tags: [CTF]
 image:
   path: https://wallpapers.com/images/high/cool-dramatic-sosuke-aizen-3gq9d7n1zs22yxuz.webp

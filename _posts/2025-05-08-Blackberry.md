@@ -1,7 +1,7 @@
 ---
 title: "Blackberry CTF 2025 "
 date: 2025-05-08 
-categories: [CTF]
+categories: [Sanboxing Escape]
 tags: [CTF]
 image:
   path: https://imgs.search.brave.com/ckDTuxCzv0isHJVdwnL9LgITghWY7KRA2lVEB_khGzA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS80OC8z/L0w3VVNmcS5qcGc

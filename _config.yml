@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Kafka Blog  # the main title
+title: Kafka  # the main title
 
 tagline: unstable # it will display as the subtitle
 
@@ -33,7 +33,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Zeta
+  name: Kafka
   email: farisdnish79@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1932657757293035521/4to8k1v1_400x400.jpg
+avatar: https://i.pinimg.com/1200x/41/34/85/413485871ac541d98cf6824d131c3066.jpg/
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
